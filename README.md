@@ -1,6 +1,7 @@
 # grails-spring-security-core-plugin
 Example repo to replicate issue using Spring Security Core plugin > 4.0.0 in a Grails plugin which is created using the 'plugin' profile
 
+Link to issue: https://github.com/grails-plugins/grails-spring-security-core/issues/627
 
 ### Task List
 
