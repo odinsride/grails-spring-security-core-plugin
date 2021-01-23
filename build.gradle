@@ -33,6 +33,7 @@ dependencies {
     compile "org.grails:grails-core"
     compileOnly "io.micronaut:micronaut-inject-groovy"
 
+    compile "org.grails:grails-web-boot"
     compile "org.grails.plugins:spring-security-core:4.0.3"
 
     console "org.grails:grails-console"
